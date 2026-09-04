@@ -3,7 +3,7 @@ import yarnCones1 from "../assets/images/yarn-cones-1.jpg";
 import yarnCones2 from "../assets/images/yarn-cones-2.jpg";
 import yarnCones3 from "../assets/images/yarn-cones-3.jpg";
 import yarnCones4 from "../assets/images/yarn-cones-4.jpg";
-import rawCottonFibre from "../assets/images/raw-cotton-fibre.jpg";
+import rawCottonFibre from "../assets/images/cotton-waste.jpg";
 import fabricRolls from "../assets/images/fabric-rolls.jpg";
 import factoryFloor from "../assets/images/factory-floor.jpg";
 import factoryStitching from "../assets/images/factory-stitching.jpg";

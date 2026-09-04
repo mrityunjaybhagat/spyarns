@@ -1,6 +1,6 @@
 import ThreadWeave from "../components/ThreadWeave";
 import EnquiryBanner from "../components/EnquiryBanner";
-import rawCottonFibre from "../assets/images/raw-cotton-fibre.jpg";
+import rawCottonFibre from "../assets/images/cotton-waste.jpg";
 
 const qualityPoints = [
   { title: "Material Inspection", desc: "Incoming fibre and cotton checked against agreed grade before it enters production." },

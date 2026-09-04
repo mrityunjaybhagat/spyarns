@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import ThreadWeave from "../components/ThreadWeave";
 import EnquiryBanner from "../components/EnquiryBanner";
 import { productCategories } from "../data/productCategories";
-import yarnCones1 from "../assets/images/yarn-cones-1.jpg";
+import yarnConesHero from "../assets/images/yarn-cones-hero.jpg";
 import factoryFloor from "../assets/images/factory-floor.jpg";
 
 const strengths = [
@@ -50,7 +50,7 @@ export default function Home() {
           <div className="relative">
             <div className="aspect-[4/5] rounded-md overflow-hidden border border-white/10">
               <img
-                src={yarnCones1}
+                src={yarnConesHero}
                 alt="Cotton yarn cones on a spinning frame"
                 className="w-full h-full object-cover"
               />
